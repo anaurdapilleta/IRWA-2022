@@ -7,5 +7,5 @@ In order to run the code we must:
 - Change the path 'docs_path' to the corresponding path in which tw_hurricane_data.json is stored in Google Drive
 - Click in Runtime -> Run all
 
-Júlia Ruiz u172955
-Ana Urdapilleta u172960
+Júlia Ruiz
+Ana Urdapilleta
