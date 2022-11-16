@@ -1,8 +1,8 @@
-README of Project Part 2
+README of Project Part 3
 
 In order to run the code we must:
 
-Download the .ipynb file called IRWA-2022-part-2.ipynb
+Download the .ipynb file called IRWA-2022-part-3.ipynb
 Upload the file to Google Drive
 Upload the json file tw_hurricane_data.json to Google Drive
 Upload the .csv files evaluation_gt.csv and evaluation_gt_ours.csv to Google Drive
@@ -12,6 +12,7 @@ Change the path 'search_results_1' to the corresponding path in which evaluation
 By default, the paths are drive/My Drive/inputs/ + the corresponding file name
 
 Click in Runtime -> Run all
+
 Júlia Ruiz
 
 Ana Urdapilleta
