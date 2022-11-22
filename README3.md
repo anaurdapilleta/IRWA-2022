@@ -23,3 +23,5 @@ In order to run the code we must:
 Júlia Ruiz
 
 Ana Urdapilleta
+
+Arnau Manzano
