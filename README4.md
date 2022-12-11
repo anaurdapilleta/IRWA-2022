@@ -1,18 +1,6 @@
 # PART 4 - IRWA FINAL PROJECT
 
-This projects contains the startup Flask files for developing a web application.
-
-## To download this repo locally
-
-Open a terminal console and execute:
-
-```
-cd <your preferred projects root directory>
-
-git clone https://github.com/irwa-labs/search-engine-web-app.git
-
-```
-
+This projects contains the startup Flask files for developing a web application. Download the zip folder on tag v1.0.3.
 
 
 ## Starting the Web App
@@ -77,22 +65,6 @@ pip install Flask pandas nltk faker
 ```
 
 
-
-
-## Git Help
-After creating the project and code in local computer...
-
-1. Login to GitHub and create a new repo.
-2. Go to the root page of your new repo and note the url from the browser.
-3. Execute the following locally.
-4. 
-```bash
-cd <project root folder>
-git init -b main
-git add . && git commit -m "initial commit"
-git remote add origin <your GitHub repo URL from the browser>
-git push -u origin main
-```
 
 
 
